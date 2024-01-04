@@ -1,4 +1,4 @@
 *.stl binary
-*.FCStd binary
+*.FCStd* binary
 
 
